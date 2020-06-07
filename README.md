@@ -5,7 +5,9 @@
 ### Vim
 
 1. Install Vim: `sudo apt install vim`
-2. Install vim-prettier: https://github.com/prettier/vim-prettier (don't forget to run `npm i` in the vim-prettier folder)
+2. Install syntastic: https://github.com/vim-syntastic/syntastic
+3. Install vim-prettier: https://github.com/prettier/vim-prettier (don't forget to run `npm i` in the vim-prettier folder)
+4. Run `:helptags ALL` (ignore the error)
 
 ### i3
 
