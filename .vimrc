@@ -1,4 +1,5 @@
 " Vim
+set expandtab shiftwidth=2 smarttab softtabstop=0 tabstop=8
 set number
 set relativenumber
 
