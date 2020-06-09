@@ -8,7 +8,7 @@ AirPods Pro: AC:90:85:47:6D:55
 
 1. Enter bluetoothctl: `bluetoothctl`
 2. Scan for devices: `scan on`
-3. Stop scanning for: devices: `scan off`
+3. Stop scanning for devices: `scan off`
 4. Connect device: `connect AC:90:85:47:6D:55`
 5. Disconnect device: `disconnect AC:90:85:47:6D:55`
 6. Exit bluetoothctl: `exit`
