@@ -3,5 +3,5 @@
   "eslint.autoFixOnSave": true,
   "python.formatting.provider": "black",
   "python.jediEnabled": false,
-  "python.setInterpreter": "python"
+  "python.linting.pylintEnabled": true
 }
