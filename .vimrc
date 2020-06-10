@@ -1,7 +1,6 @@
 " Vim
 set expandtab shiftwidth=2 smarttab softtabstop=0 tabstop=8
-au FileType markdown setlocal shiftwidth=4
-au FileType python setlocal shiftwidth=4
+au FileType markdown,python setlocal shiftwidth=4
 set number relativenumber
 
 " coc-tsserver
