@@ -13,6 +13,11 @@ AirPods Pro: AC:90:85:47:6D:55
 5. Disconnect device: `disconnect AC:90:85:47:6D:55`
 6. Exit bluetoothctl: `exit`
 
+### Node.js
+
+1. Install Node.js: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions-enterprise-linux-fedora-and-snap-packages
+2. Install Prettier in this repository: `npm i`
+
 ### Vim
 
 1. Install Vim: `sudo apt install vim`
