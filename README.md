@@ -16,13 +16,14 @@ AirPods Pro: AC:90:85:47:6D:55
 ### Vim
 
 1. Install Vim: `sudo apt install vim`
-2. Copy .vimrc file to ~ folder
-3. Install coc.nvim: https://github.com/neoclide/coc.nvim
-4. Install coc-eslint: https://github.com/neoclide/coc-eslint
-5. Install coc-prettier: https://github.com/neoclide/coc-prettier
-6. Install coc-python: https://github.com/neoclide/coc-python
-7. Install coc-tsserver: https://github.com/neoclide/coc-tsserver
-8. Copy coc-settings.json file to ~/.vim folder
+2. Install fzf: https://github.com/junegunn/fzf
+3. Copy .vimrc file to ~ folder
+4. Install coc.nvim: https://github.com/neoclide/coc.nvim
+5. Install coc-eslint: https://github.com/neoclide/coc-eslint
+6. Install coc-prettier: https://github.com/neoclide/coc-prettier
+7. Install coc-python: https://github.com/neoclide/coc-python
+8. Install coc-tsserver: https://github.com/neoclide/coc-tsserver
+9. Copy coc-settings.json file to ~/.vim folder
 
 ### i3
 
