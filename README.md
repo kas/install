@@ -31,3 +31,7 @@ AirPods Pro: AC:90:85:47:6D:55
 2. Connect monitor: https://i3wm.org/docs/userguide.html#multi_monitor
    1. Run `xrandr --output DP-1-2 --auto --left-of eDP-1`
 3. Disconnect monitor: `xrandr --output DP-1-2 --off`
+
+### z
+
+1. Install z: https://github.com/rupa/z
