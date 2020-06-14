@@ -11,21 +11,21 @@
 
 1. Install Vim: `sudo apt install vim`
 2. Install fzf: https://github.com/junegunn/fzf
-3. Copy .vimrc file to ~/ folder: `cp .vimrc ~`
+3. Copy the .vimrc file to the ~/ folder: `cp .vimrc ~`
 4. Install coc.nvim: https://github.com/neoclide/coc.nvim
 5. Install coc-eslint: https://github.com/neoclide/coc-eslint
 6. Install coc-prettier: https://github.com/neoclide/coc-prettier
 7. Install coc-python: https://github.com/neoclide/coc-python
 8. Install coc-tsserver: https://github.com/neoclide/coc-tsserver
-9. Copy coc-settings.json file to ~/.vim/ folder: `cp coc-settings.json ~/.vim`
+9. Copy the coc-settings.json file to the ~/.vim/ folder: `cp coc-settings.json ~/.vim`
 
 ### i3
 
 1. Install i3: https://i3wm.org/docs/repositories.html
 2. Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
-3. Copy shell scripts to ~/bin/ folder: `cp shell-scripts/* ~/bin`
-4. Make shell scripts executable: `cd ~/bin && chmod +x connect-airpods-pro.sh connect-output.sh disconnect-airpods-pro.sh disconnect-output.sh`
-5. Log out and log back in to use shell scripts in dmenu
+3. Copy the shell scripts to the ~/bin/ folder: `cp shell-scripts/* ~/bin`
+4. Make the shell scripts executable: `cd ~/bin && chmod +x connect-airpods-pro.sh connect-output.sh disconnect-airpods-pro.sh disconnect-output.sh`
+5. Log out and log back in to use the shell scripts in dmenu
 
 ### z
 
