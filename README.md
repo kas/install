@@ -24,7 +24,7 @@
 1. Install i3: https://i3wm.org/docs/repositories.html
 2. Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
 3. Copy shell scripts to ~/bin/ folder: `cp shell-scripts/* ~/bin`
-4. Set shell scripts as executable: `cd ~/bin && chmod +x connect-airpods-pro.sh connect-output.sh disconnect-airpods-pro.sh disconnect-output.sh`
+4. Make shell scripts executable: `cd ~/bin && chmod +x connect-airpods-pro.sh connect-output.sh disconnect-airpods-pro.sh disconnect-output.sh`
 5. Log out and log back in to use shell scripts in dmenu
 
 ### z
