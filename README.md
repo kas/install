@@ -15,13 +15,15 @@ Simple development environment setup
 
 1. Install Vim: `sudo apt install vim`
 2. Install fzf: https://github.com/junegunn/fzf
-3. Copy the .vimrc file to the ~/ folder: `cp .vimrc ~`
-4. Install coc.nvim: https://github.com/neoclide/coc.nvim
-5. Install coc-eslint: https://github.com/neoclide/coc-eslint
-6. Install coc-prettier: https://github.com/neoclide/coc-prettier
-7. Install coc-python: https://github.com/neoclide/coc-python
-8. Install coc-tsserver: https://github.com/neoclide/coc-tsserver
-9. Copy the coc-settings.json file to the ~/.vim/ folder: `cp coc-settings.json ~/.vim`
+3. Install fzf.vim: https://github.com/junegunn/fzf.vim
+4. Install ripgrep: https://github.com/BurntSushi/ripgrep
+5. Copy the .vimrc file to the ~/ folder: `cp .vimrc ~`
+6. Install coc.nvim: https://github.com/neoclide/coc.nvim
+7. Install coc-eslint: https://github.com/neoclide/coc-eslint
+8. Install coc-prettier: https://github.com/neoclide/coc-prettier
+9. Install coc-python: https://github.com/neoclide/coc-python
+10. Install coc-tsserver: https://github.com/neoclide/coc-tsserver
+11. Copy the coc-settings.json file to the ~/.vim/ folder: `cp coc-settings.json ~/.vim`
 
 ### i3
 
