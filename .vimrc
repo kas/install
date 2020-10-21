@@ -2,4 +2,4 @@
 set number relativenumber
 
 " fzf
-set rtp+=~/.fzf
+set rtp+=/usr/bin/fzf
