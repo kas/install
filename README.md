@@ -19,7 +19,3 @@ Simple development environment setup
 1. (Optional) copy the shell scripts to the ~/bin/ folder: `cp shell-scripts/* ~/bin`
 1. (Optional) make the shell scripts executable: `cd ~/bin && chmod +x connect-airpods-pro.sh connect-output.sh disconnect-airpods-pro.sh disconnect-output.sh`
 1. (Optional) log out and log back in to use the shell scripts in dmenu
-
-### z
-
-1. (Optional) install z: https://github.com/rupa/z
