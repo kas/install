@@ -9,7 +9,7 @@ Simple development environment setup
 1. Install Vim: `sudo apt install vim`
 1. Install fzf: https://github.com/junegunn/fzf
 1. Install fzf.vim: https://github.com/junegunn/fzf.vim
-1. Install ripgrep: https://github.com/BurntSushi/ripgrep
+1. Install ripgrep: `sudo apt install ripgrep`
 1. Copy the .vimrc file to the ~ folder: `cp .vimrc ~`
 
 ### i3
