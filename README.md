@@ -11,6 +11,8 @@ Simple development environment setup
 1. Install fzf.vim: https://github.com/junegunn/fzf.vim
 1. Install ripgrep: `sudo apt install ripgrep`
 1. Copy the .vimrc file to the ~ folder: `cp .vimrc ~`
+1. Copy the .gitignore_global file to the ~ folder: `cp .gitignore_global ~`
+    1. Configure Git to use the .gitignore_global file: `git config --global core.excludesfile ~/.gitignore_global`
 
 ### i3
 
