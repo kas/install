@@ -11,7 +11,7 @@ Simple development environment setup
 1. Copy the .vimrc file to the ~ folder: `cp .vimrc ~`
 ### i3
 1. Install i3: https://i3wm.org/docs/repositories.html
-1. (Optional) Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
 1. (Optional) Copy the shell scripts to the ~/bin folder: `cp shell-scripts/* ~/bin`
    1. Make the shell scripts executable: `chmod +x ~/bin/{connect-airpods-pro.sh,connect-output-audio.sh,connect-output.sh,disconnect-airpods-pro.sh,disconnect-output-audio.sh,disconnect-output.sh}`
    1. Log out and log back in to use the shell scripts in dmenu
+1. (Optional) Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
