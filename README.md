@@ -16,5 +16,5 @@ Simple development environment setup
    1. Log out and log back in to use the shell scripts in dmenu
 1. (Optional) Install brightnessctl: `sudo apt install brightnessctl`
    1. Add your user to the video group: `sudo gpasswd -a kenneth video`
-   1. Log out and log back in
+   1. Log out and log back in to use brightnessctl
 1. (Optional) Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
