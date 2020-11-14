@@ -1,2 +1,2 @@
 #!/bin/bash
-brightnessctl set 75%
+xrandr --output eDP-1-1 --brightness 0.75
