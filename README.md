@@ -14,5 +14,5 @@ Simple development environment setup
 1. (Optional) Copy the shell scripts to the ~/bin folder: `cp shell-scripts/* ~/bin`
    1. Make the shell scripts executable: `chmod +x ~/bin/*`
    1. Log out and log back in to use the shell scripts in dmenu
-1. (Optional) Set scale: `echo Xft.dpi: 192 >> ~/.Xresources`
+1. (Optional) Set the scale: `echo Xft.dpi: 192 >> ~/.Xresources`
 1. (Optional) Set up i3-workspace-reset for use with dmenu: https://github.com/kas/i3-workspace-reset
